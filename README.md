@@ -1,1 +1,1 @@
-# <br>Kılıcın Parlattığı, Kalemin Aydınllatığı
+# <br>Kılıcın Parlattığı, Kalemin Aydınlattığı
