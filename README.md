@@ -1,6 +1,7 @@
 # <br>Kılıcın Parlattığı, Kalemin Aydınlattığı
 
-<script src="https://tryhackme.com/badge/1"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ben.png" alt="TryHackMe">
+
 
 
 
